@@ -6,7 +6,7 @@ const quote1 = {
 
 const quote2 = {
   text: "A ship in port is safe, but that's not what ships are built for.",
-  author: "Admiral Grace Hopper",
+  author: "Admiral Hopper",
   bio: "Inventor of Programming Compilers",
 };
 
